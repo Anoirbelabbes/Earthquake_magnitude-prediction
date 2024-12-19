@@ -1,0 +1,2 @@
+# Earthquake_magnitude-prediction
+Earthquake_magnitude-prediction
